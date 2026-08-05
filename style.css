@@ -211,3 +211,40 @@ footer {
     font-size: 2rem !important; /* বা আপনার প্রয়োজন মতো সাইজ */
   }
 }
+
+.project-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.btn {
+  padding: 10px 18px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+/* Live Demo বাটনের ডিজাইন */
+.btn-demo {
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+.btn-demo:hover {
+  background-color: #1d4ed8;
+}
+
+/* Buy on Gumroad বাটনের ডিজাইন */
+.btn-buy {
+  background-color: #ff90e8; /* Gumroad এর সিগনেচার পিংক কালার */
+  color: #000000;
+  border: 1px solid #000;
+}
+
+.btn-buy:hover {
+  background-color: #ff70e0;
+  transform: translateY(-2px);
+}
