@@ -24,4 +24,4 @@ Welcome to my personal developer portfolio! This website showcases my skills, fe
 
 ## 👨‍💻 Connect with Me
 * **GitHub:** [@Salauddin-Ahmed007](https://github.com/Salauddin-Ahmed007)
-* **LinkedIn:** [Salauddin Ahmed](https://linkedin.com) *(আপনার লিংক বসিয়ে নিবেন)*
+* **LinkedIn:** [Salauddin Ahmed](https://www.linkedin.com/in/salauddin-ahmed-a906b3196/)
