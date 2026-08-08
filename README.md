@@ -22,6 +22,18 @@ Welcome to my personal developer portfolio! This website showcases my skills, fe
 
 ---
 
+## 🔥 My Created Projects List 🔥
+* **Project_1 (Dynamic Weather App)**
+* **Live Link:** https://salauddin-ahmed007.github.io/modern-weather-app/
+* **Source Code:** https://salauddintech.gumroad.com/l/modern-weather-app
+
+* **Project_2 (Image To Text Converter)**
+* **Live Link:** https://salauddin-ahmed007.github.io/image-to-text-converter/
+* **Source Code:** https://salauddintech.gumroad.com/l/image-to-text
+
+---
+
 ## 👨‍💻 Connect with Me
 * **GitHub:** [@Salauddin-Ahmed007](https://github.com/Salauddin-Ahmed007)
 * **LinkedIn:** [Salauddin Ahmed](https://www.linkedin.com/in/salauddin-ahmed-a906b3196/)
+* **Email:** (salauddincomputer007@gmail.com)
