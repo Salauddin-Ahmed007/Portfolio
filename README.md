@@ -24,18 +24,15 @@ Welcome to my personal developer portfolio! This website showcases my skills, fe
 
 ## 🔥 My Created Projects List 🔥
 * ## **Project_1 (Dynamic Weather App)**
-* ## 🚀 Live Demo: [Click Here to View Live Project](https://salauddin-ahmed007.github.io/modern-weather-app/)
-* ## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/modern-weather-app)**
+  ## 🚀 Live Demo: [Click Here to View Live Project](https://salauddin-ahmed007.github.io/modern-weather-app/)
+  ## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/modern-weather-app)**
   <br>
   <br>
   <br>
-  <br>
-
 
 * ## **Project_2 (Image To Text Converter)**
-* ## 🚀 Live Demo: [Click Here to View Live Project](https://salauddin-ahmed007.github.io/image-to-text-converter/)
-* ## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/image-to-text)** <br>
-  <br>
+  ## 🚀 Live Demo: [Click Here to View Live Project](https://salauddin-ahmed007.github.io/image-to-text-converter/)
+  ## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/image-to-text)** <br>
   <br>
   <br>
   <br>
