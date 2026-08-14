@@ -28,6 +28,8 @@ Welcome to my personal developer portfolio! This website showcases my skills, fe
 * ## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/modern-weather-app)**
   <br>
   <br>
+  <br>
+  <br>
 
 
 * ## **Project_2 (Image To Text Converter)**
@@ -35,7 +37,9 @@ Welcome to my personal developer portfolio! This website showcases my skills, fe
 * ## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/image-to-text)** <br>
   <br>
   <br>
-
+  <br>
+  <br>
+  
 ## **Project_3 (modern_admin_dashboard)**
 ## 🚀 Live Demo: [Click Here to View Live Project](https://salauddin-ahmed007.github.io/modern_admin_dashboard/)
 
