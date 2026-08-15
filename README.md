@@ -39,7 +39,7 @@ Welcome to my personal developer portfolio! This website showcases my skills, fe
   
 ## **Project_3 (modern_admin_dashboard)**
 ## 🚀 Live Demo: [Click Here to View Live Project](https://salauddin-ahmed007.github.io/modern_admin_dashboard/)
-
+## 🛒 **[Buy Source Code](https://salauddintech.gumroad.com/l/admin-dashboard)**
 ---
 ## 👨‍💻 Connect with Me
 * **GitHub:** [@Salauddin-Ahmed007](https://github.com/Salauddin-Ahmed007)
